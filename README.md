@@ -8,11 +8,15 @@ Its the new G-Board theme enabler
 
 It will enable the things like
 
-### V1
+### V1 :-
+
+[Download](https://github.com/IMMANUEL44/gboard_theme_enabler/raw/main/Gboard_theme_enabler.zip)
 
 -New dynamic keyboard theme for any device that is using android 10+ 
 
-### V2
+### V2 :-
+
+[Download](https://github.com/IMMANUEL44/gboard_theme_enabler/raw/main/Gboard_theme_enabler_v2.zip)
 
 -New Round corner Ui
 
@@ -20,14 +24,16 @@ It will enable the things like
 
 -Screenshot paste(only for some luck peeps)
 
-### V3
+### V3 :-
+
+[Download](https://github.com/IMMANUEL44/gboard_theme_enabler/raw/main/Gboard_theme_enabler_v3.zip)
 
 -New Android 12 Emojis
 
 
 ## Screenshots:-
 
-### V1 
+### V1  :-
 
 Dynamic Keyboard:-
 
@@ -36,7 +42,7 @@ Dynamic Keyboard:-
 ![Dark Theme](https://i.imgur.com/oM7S6Zk.jpg[/img])
 
 
-### V2
+### V2 :-
 
 Screenshot paste:-
 
@@ -46,7 +52,7 @@ New design toggle:-
 
 ![New design toggle](https://i.imgur.com/FfMupKm.jpg[/img])
 
-### V3
+### V3 :-
 
 Android12 Emojis:-
 
