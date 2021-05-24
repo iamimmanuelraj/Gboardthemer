@@ -1,3 +1,5 @@
+![Banner](https://i.imgur.com/ktusjBg.jpg)
+<br>
 <center><h1><u>G-Board Themer</u></h1></center><br><br>
 
 <h2><u><center>Chek out more about me <a href="https://immanuelraj.me/">HERE</a></center></u><br><br></h2>
@@ -7,15 +9,15 @@ yeah trust me you will like this
 
 So....whats it???
 
-Its the new G-Board theme enabler
+Its the new G-Board theme enabler for people like me who dont like to root their devices
 
-It will enable the things like
+The following features applies for all phones running Android 10 and above (except when mentioned)
 <br>
 
 <center><u><h2>Features</h2></u></center><br>
 
 
--New dynamic keyboard theme for any device that is using android 10+ <br>
+-New dynamic keyboard theme <br>
 
 -New Round corner Ui <br>
 
