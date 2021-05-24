@@ -1,4 +1,4 @@
-# G-Board Themer
+<center><h1>G-Board Themer</h1></center>
 
 Hey so am back with an interesting thing with to share it with you guys.....yeah trust me you will like this
 
@@ -37,6 +37,9 @@ It will enable the things like
 
 ### Dynamic Keyboard:-
 
+
+
+
 ![Light Theme](https://i.imgur.com/OE4MTgB.jpg)
 
 
@@ -47,11 +50,15 @@ It will enable the things like
 
 ### Screenshot paste:-
 
+
+
 ![Screenshot paste](https://i.imgur.com/0t0KRTd.jpg)
 
 
 
 ### New design toggle:-
+
+
 
 ![New design toggle](https://i.imgur.com/FfMupKm.jpg)
 
@@ -59,11 +66,15 @@ It will enable the things like
 
 ### Android 12 Emojis:-
 
+
+
 ![Android12 Emojis](https://i.imgur.com/fDPCBSu.png)
 
 
 
 ### Android 12 Silky Theme:-
+
+
 
 ![Android 12 Silky Theme](https://i.imgur.com/C8wQtSN.jpg)
 
@@ -71,26 +82,37 @@ It will enable the things like
 
 ### Android 12 Round Pills:-
 
+
+
 ![Android 12 Round Pill](https://i.imgur.com/sRDoCFE.jpg)
+
 
 
 ## Whats New :- 
 
+
 1) Made split version (Minimal and Full)
+
 
     Minimal - Only Theme
 
+
     Full - Theme + Emojis
 
+
 2) Updated how the script works
+
     
     Nicer look and automatic reboot to system
+
 
 3) Added some new stuff from Android 12 
 
 
 
 ## How to Install.... :- 
+
+
 
 1) Download the zip
 
@@ -104,13 +126,23 @@ It will enable the things like
 
 # Download:- 
 
+
+
 1) Version 1 (Theme only) [DOWNLOAD](https://sourceforge.net/projects/immanuelsbuilds/files/Gboard-Themer/Gboard_theme_enabler.zip/download)
+
+
 
 2) Version 2 (Theme only) [DOWNLOAD](https://sourceforge.net/projects/immanuelsbuilds/files/Gboard-Themer/Gboard_theme_enabler_v2.zip/download)
 
+
+
 3) Version 3 (Theme + Emojis) [DOWNLOAD](https://sourceforge.net/projects/immanuelsbuilds/files/Gboard-Themer/Gboard_theme_enabler_v3.zip/download)
 
+
+
 4 a) Version 4a (Theme only) [DOWNLOAD](https://sourceforge.net/projects/immanuelsbuilds/files/Gboard-Themer/Gboard_theme_enabler_v4_Minimal.zip/download)
+
+
 
 4 b) Version 4b (Theme + Emojis) [DOWNLOAD](https://sourceforge.net/projects/immanuelsbuilds/files/Gboard-Themer/Gboard_theme_enabler_v4_Full.zip/download)
 
@@ -119,7 +151,9 @@ It will enable the things like
 ## Star this repo and also give a like in my [XDA Post](https://forum.xda-developers.com/t/new-gboard-theme-enabler.4248721/)
 
 
+
 ## For any further support or doubts or any issues ping me on [TELEGRAM](https://t.me/yaa2g)
+
 
 
 # Credits:-
