@@ -127,7 +127,7 @@ The following features applies for all phones running Android 10 and above (exce
 4 b) Version 4b (Theme + Emojis) [DOWNLOAD](https://sourceforge.net/projects/immanuelsbuilds/files/Gboard-Themer/Gboard_theme_enabler_v4_Full.zip/download)
 <br>
 
-## Star this repo and also give a like in my [XDA Post](https://forum.xda-developers.com/t/new-gboard-theme-enabler.4248721/)
+## Star [THIS](https://github.com/IMMANUEL44/Gboardthemer) repo and also give a like in my [XDA Post](https://forum.xda-developers.com/t/new-gboard-theme-enabler.4248721/)
 <br>
 
 ## For any further support or doubts or any issues ping me on [TELEGRAM](https://t.me/yaa2g)
