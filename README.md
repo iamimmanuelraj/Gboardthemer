@@ -1,4 +1,6 @@
-<center><h1><u>G-Board Themer</u></h1></center><br>
+<center><h1><u>G-Board Themer</u></h1></center><br><br>
+
+<h2><u><center>Chek out more about me <a href="https://immanuelraj.me/">HERE</a></center></u><br><br></h2>
 
 Hey so am back with an interesting thing with to share it with you guys.....<br>
 yeah trust me you will like this
