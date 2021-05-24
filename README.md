@@ -1,4 +1,4 @@
-<center><h1>G-Board Themer</h1></center>
+<center><h1><u>G-Board Themer</u></h1></center>
 
 Hey so am back with an interesting thing with to share it with you guys.....yeah trust me you will like this
 
@@ -10,7 +10,8 @@ It will enable the things like
 
 
 
-## Features
+<center><u><h2>Features</h2></u></center>
+
 
 -New dynamic keyboard theme for any device that is using android 10+ 
 
@@ -28,9 +29,7 @@ It will enable the things like
 
 
 
-
-## Screenshots:-
-
+<center><u><h2>Screenshots</h2></u></center>
 
 
 
@@ -88,8 +87,7 @@ It will enable the things like
 
 
 
-## Whats New :- 
-
+<center><u><h2>Whats New</h2></u></center>
 
 1) Made split version (Minimal and Full)
 
@@ -110,8 +108,7 @@ It will enable the things like
 
 
 
-## How to Install.... :- 
-
+<center><u><h2>How To Install</h2></u></center>
 
 
 1) Download the zip
@@ -124,8 +121,7 @@ It will enable the things like
 
 
 
-# Download:- 
-
+<center><u><h2>Download</h2></u></center>
 
 
 1) Version 1 (Theme only) [DOWNLOAD](https://sourceforge.net/projects/immanuelsbuilds/files/Gboard-Themer/Gboard_theme_enabler.zip/download)
@@ -156,7 +152,8 @@ It will enable the things like
 
 
 
-# Credits:-
+<center><u><h2>Credits</h2></u></center>
+
 
 Thanks for the people who test and support me
 
