@@ -17,15 +17,13 @@ The following features applies for all phones running Android 10 and above (exce
 <center><u><h2>Features</h2></u></center><br>
 
 
--New dynamic keyboard theme <br>
-
 -New Round corner Ui <br>
-
--Enable New/Old theme toggle <br>
 
 -Screenshot paste <br>
 
--New Android 12 Emojis <br>
+-G logo on spacebar <br>
+
+-Works with Android 12's Material you (Adaptive colours) <br>
 
 -Android 12 Round Pills {Needs latest gboard beta from [HERE](https://www.apkmirror.com/apk/google-inc/gboard/)} <br>
 
@@ -34,31 +32,10 @@ The following features applies for all phones running Android 10 and above (exce
 
 <center><u><h2>Screenshots</h2></u></center><br>
 
-<h3><u>Dynamic Keyboard:-</u></h3> 
-<br> <br>
-
-![Light Theme](https://i.imgur.com/OE4MTgB.jpg)
-<br> <br>
-
-![Dark Theme](https://i.imgur.com/oM7S6Zk.jpg)
-<br><br>
-
 <h3><u>Screen shot paste:-</u></h3> 
 <br><br>
 
 ![Screenshot paste](https://i.imgur.com/0t0KRTd.jpg)
-<br><br>
-
-<h3><u>New design toggle:-</u></h3> 
-<br><br>
-
-![New design toggle](https://i.imgur.com/FfMupKm.jpg)
-<br><br>
-
-<h3><u>Android 12 emojis:-</u></h3> 
-<br><br>
-
-![Android12 Emojis](https://i.imgur.com/fDPCBSu.png)
 <br><br>
 
 <h3><u>Android 12 silky theme:-</u></h3> 
@@ -73,24 +50,21 @@ The following features applies for all phones running Android 10 and above (exce
 ![Android 12 Round Pill](https://i.imgur.com/sRDoCFE.jpg)
 <br><br>
 
-<center><u><h2>Whats New</h2></u></center> <br>
+<center><u><h2>Whats New in V5</h2></u></center> <br>
 
-1) Made split version (Minimal and Full)
-
-
-    Minimal - Only Theme
+1) Cleaned Installation script
 
 
-    Full - Theme + Emojis
+2) Updated and cleaned the files
 
 
-2) Updated how the script works
+3) Added some new stuff
 
-    
-    Nicer look and automatic reboot to system
+    Adaptive theming (Now in androdi 12 flashing this will enable adaptive colours based on material you on gboard)
 
+    Added G logo on space bar for pixel feel
 
-3) Added some new stuff from Android 12 
+    Some minor Transaltion and overall improvements
 
 <br><br>
 
@@ -102,7 +76,7 @@ The following features applies for all phones running Android 10 and above (exce
 
 3) sideload (adb sideload name.zip) or install as a file
 
-4) Reboot (will be done automatically)
+4) Reboot
 <br><br>
 
 <center><u><h2>Download</h2></u></center><br>
@@ -127,6 +101,9 @@ The following features applies for all phones running Android 10 and above (exce
 4 b) Version 4b (Theme + Emojis) [DOWNLOAD](https://sourceforge.net/projects/immanuelsbuilds/files/Gboard-Themer/Gboard_theme_enabler_v4_Full.zip/download)
 <br>
 
+5) Version 5 (Theme only) [DOWNLOAD](https://sourceforge.net/projects/immanuelsbuilds/files/Gboard-Themer/Gboard_theme_enabler_v5.zip/download) [LATEST]
+<br>
+
 ## Star [THIS](https://github.com/IMMANUEL44/Gboardthemer) repo and also give a like in my [XDA Post](https://forum.xda-developers.com/t/new-gboard-theme-enabler.4248721/)
 <br>
 
@@ -140,6 +117,6 @@ Thanks for the people who test and support me
 
 -[PixelProps](https://t.me/pixelprops) for Gboard themes
 
--[RKBDI](https://forum.xda-developers.com/m/rkbd.7544065/) for new emojis
+-[RKBDI](https://forum.xda-developers.com/m/rkbd.7544065/) for his work in gboard
 
 -[In Depth Tech Reviews](https://www.youtube.com/c/indepthtechreviews) and [Joe](https://t.me/joeKahnwald) for silky theme and pill
